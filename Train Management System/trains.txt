@@ -1,0 +1,2 @@
+1,BHARAT,9:30,Jammu to Delhi,900
+2,JMU,10:20,Jammu to Mumbai,100
