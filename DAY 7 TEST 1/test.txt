@@ -1,0 +1,67 @@
+Solve any four
+1)Write a program to display the array element.
+2)write a progam to find the  max element from the list
+3)Count of 3 Multiples 
+Write a program to find the count of 3 multiples in a given input integer array. 
+Include a function named divisibleBy3 that accepts 2 arguments and returns an int. 
+The first argument is the input array and the second argument is an int that corresponds to the size of 
+the array. The function returns an int that corresponds to the count of 3 multiples. 
+ 
+If the size of the array is negative or if any element in the array is negative, print “Invalid Input”
+and terminate the program. 
+ 
+Input and Output Format: 
+
+Input consists of n+1 integers. The first integer corresponds to n, the number of elements in the array. The next 'n' integers correspond to the elements in the array. 
+Output consists of an integer that corresponds to the count of 3 multiples 
+
+Assume that the maximum number of elements in the array is 20. 
+
+Sample Input 1: 
+
+8 
+
+1 
+
+6 
+
+3 
+
+5 
+
+61 
+
+80 
+
+102 
+
+9 
+
+Sample Output 1: 
+
+4 
+
+Sample Input 2: 
+
+-5 
+
+Sample Output 2: 
+
+Invalid Input 
+
+Sample Input 3: 
+
+5 
+
+23 
+
+2 
+
+-200 
+
+Sample Output 3: 
+
+Invalid Input
+------------
+4)https://leetcode.com/problems/two-sum/description/ 
+5)https://leetcode.com/problems/valid-parentheses/  
